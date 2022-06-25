@@ -77,7 +77,7 @@ hi! TabLineFill cterm=reverse gui=reverse ctermbg=234 ctermfg=245 guibg=#17171b 
 hi! TabLineSel cterm=NONE gui=NONE ctermbg=234 ctermfg=247 guibg=#e95678 guifg=#9a9ca5
 hi! Title cterm=NONE gui=NONE ctermfg=37 guifg=#25b0bc  "bold "bold 
 hi! Todo cterm=inverse,bold gui=inverse,bold ctermbg=59 ctermfg=48 guibg=#45493e guifg=#09f7a0
-hi! Type cterm=NONE gui=NONE ctermfg=209 guifg=#fab795
+hi! Type cterm=NONE gui=NONE ctermfg=209 guifg=#b877db "fab795
 hi! Underlined cterm=underline gui=underline ctermfg=37 guifg=#25b0bc
 hi! VertSplit cterm=NONE gui=NONE ctermbg=233 ctermfg=233 guibg=#0f1117 guifg=#0f1117 "bold " bold 
 hi! Visual cterm=NONE gui=NONE ctermbg=236 guibg=#272c42
